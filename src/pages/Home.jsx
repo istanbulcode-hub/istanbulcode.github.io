@@ -13,6 +13,7 @@ import "../../index.css";
 const Home = () => {
   return (
     <div className="relative">
+      
       <div className="introduction-profile-background">
         <div className="content">
           <Introduction />
